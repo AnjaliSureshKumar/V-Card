@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".man_add_product">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+
+    <EditText
+        android:id="@+id/editTextTextPersonName75"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginTop="36dp"
+        android:ems="10"
+        android:hint="product name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName76"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="price"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName77"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="quantity"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName82"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:ems="10"
+        android:hint="brand name"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button36"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="add" />
+
+
+
+</LinearLayout>

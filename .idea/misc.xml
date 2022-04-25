@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/drawable/edrounded.xml" value="0.2345" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_admin_home.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_admin_view_enter_p.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_admin_view_entrp_feedback.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_admin_view_manuf.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_admin_view_manuf_feedbacks.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_custom_ent_previouse_order_more.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_cart_product.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_paymennt.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_send_rate_review_manuf.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_view_cart_manuf.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_view_cart_products.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_view_order_myhistory.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_view_orders_from_users.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_ent_view_previous_history_more.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_manuf_view_order_from_entr.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_add_to_cart.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_payment.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_scan_qr.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_send_feedback_and_rationg.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_cart.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_cart_owner.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_order_history.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_owner_product.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_owner_rate_feedback.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_owners.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/activity_user_view_previous_hostory_more.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/add_to_cart.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/app_bar_user_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/change_password.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/content_user_home.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_admin_view_enterp.xml" value="0.16" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_admin_view_manuf.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_admin_view_manuf_feedback.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_admin_view_manufacture.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_ent_view_cart_manuf.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_ent_view_cart_product.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_ent_view_order_from_users.xml" value="0.12" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_manuf_view_order_from_entr.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_user_view_cart_owner.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_user_view_cart_product.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_user_view_owner.xml" value="0.2" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_user_view_owner_products.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_user_view_previous_order.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_user_view_previous_order_more.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_view_man_product.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_view_manufacturer.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_view_manufacturer_product.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_view_product.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/custom_view_product_man.xml" value="0.2" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/customer_signup.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/edit_entrepreneur_profile.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/edrounded.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/ent_add_product.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/entrepreneur_homepage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/entrepreneur_signup.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/ip_connect.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/login.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/man_add_product.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/man_change_password.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/manufacturer_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/manufacturer_signup.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/nav_header_user_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/signup.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/view_manufacturer.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/view_product.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/layout/view_product_man.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/prana/Desktop/BINDHIYA/Vcard2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/activity_order_more.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/add_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/add_to_cart.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/change_password.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/custom_view_man_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/custom_view_manufacturer.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/custom_view_manufacturer_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/custom_view_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/custom_view_product_man.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/customer_homepage.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/customer_signup.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/edit_cust_profile.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/edit_entrepreneur_profile.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/edit_manufacturer_profile.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/ent_add_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/ent_change_password.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/ent_send_feedback.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/ent_view_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/enter_quantity.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/entrepreneur_homepage.xml" value="0.15" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/entrepreneur_signup.xml" value="0.21" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/ip_connect.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/login.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/man_add_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/man_change_password.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/manufacturer_homepage.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/manufacturer_signup.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/send_feedback.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/signup.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_cart.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_cust_profile.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_man_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_manufacturer.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_manufacturer_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_manufacturer_profile.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_more.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_product.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_product_man.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Vcard2/app/src/main/res/layout/view_shop_profile.xml" value="0.21" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

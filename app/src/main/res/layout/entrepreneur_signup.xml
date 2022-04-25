@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ashop"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".Entrepreneur_Signup">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:text="Entrepreneur Sign Up" />
+
+            <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="105dp"
+        android:layout_height="89dp"
+
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName13"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:ems="10"
+                android:hint="Name"
+                android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName14"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Shop name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName15"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Place"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName16"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginBottom="4dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Post"
+        android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName17"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:ems="10"
+                android:hint="District"
+                android:inputType="textPersonName" />
+
+            <EditText
+        android:id="@+id/editTextTextPersonName18"
+        android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+        android:layout_marginEnd="20dp"
+                android:layout_marginBottom="8dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Location"
+        android:inputType="textPersonName"
+     />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName69"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:ems="10"
+                android:hint="latitude"
+                android:layout_marginBottom="8dp"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName70"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginBottom="8dp"
+                android:ems="10"
+                android:hint="longitude"
+                android:inputType="textPersonName" />
+
+            <EditText
+        android:id="@+id/editTextTextPersonName20"
+        android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+                android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Pin code"
+        android:inputType="number" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName21"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:ems="10"
+                android:hint="Phone Number"
+                android:inputType="number" />
+
+            <EditText
+        android:id="@+id/editTextTextPersonName22"
+        android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edrounded"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName23"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName24"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="Confirm Password"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName25"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edrounded"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:ems="10"
+        android:hint="UPI"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:text="Sign Up"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

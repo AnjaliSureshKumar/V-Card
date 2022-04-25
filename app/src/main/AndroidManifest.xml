@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vcard">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/myorders"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/myorders"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Vcard"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".User_scan_qr"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_view_entrp_feedback"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_view_manuf_feedbacks"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_view_enterP"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_view_manuf"
+            android:exported="false" />
+        <activity
+            android:name=".AdminHome"
+            android:exported="false" />
+        <activity
+            android:name=".manuf_view_order_from_entr"
+            android:exported="false" />
+        <activity
+            android:name=".ent_send_rate_review_manuf"
+            android:exported="false" />
+        <activity
+            android:name=".ent_view_orders_from_users"
+            android:exported="false" />
+        <activity
+            android:name=".ent_view_previous_history_more"
+            android:exported="false" />
+        <service android:name=".LocationService"></service>
+        <activity
+            android:name=".ent_view_order_myhistory"
+            android:exported="false" />
+        <activity
+            android:name=".ent_paymennt"
+            android:exported="false" />
+        <activity
+            android:name=".ent_view_cart_products"
+            android:exported="false" />
+        <activity
+            android:name=".ent_view_cart_manuf"
+            android:exported="false" />
+        <activity
+            android:name=".ent_cart_product"
+            android:exported="false" />
+        <activity
+            android:name=".User_view_owner_rate_feedback"
+            android:exported="false" />
+        <activity
+            android:name=".User_send_feedback_and_rationg"
+            android:exported="false" />
+        <activity
+            android:name=".User_view_previous_hostory_more"
+            android:exported="false" />
+        <activity
+            android:name=".User_payment"
+            android:exported="false" />
+        <activity
+            android:name=".User_view_order_history"
+            android:exported="false" />
+        <activity
+            android:name=".User_view_cart"
+            android:exported="false" />
+        <activity
+            android:name=".UserHome"
+            android:exported="false"
+            android:label="@string/title_activity_user_home"
+            android:theme="@style/Theme.Vcard.NoActionBar" />
+        <activity
+            android:name=".User_view_cart_owner"
+            android:exported="false" />
+        <activity
+            android:name=".User_add_to_cart"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.Dialog"
+            />
+        <activity
+            android:name=".User_view_owner_product"
+            android:exported="false" />
+        <activity
+            android:name=".User_view_owners"
+            android:exported="false" />
+        <activity
+            android:name=".Order_more"
+            android:exported="false" />
+        <activity
+            android:name=".enter_quantity"
+            android:exported="false" />
+        <activity
+            android:name=".custom_view_product_man"
+            android:exported="false" />
+        <activity
+            android:name=".view_product_man"
+            android:exported="false" />
+        <activity
+            android:name=".custom_view_manufacturer_product"
+            android:exported="false" />
+        <activity
+            android:name=".custom_view_manufacturer"
+            android:exported="false" />
+        <activity
+            android:name=".view_manufacturer"
+            android:exported="false" />
+        <activity
+            android:name=".custom_view_man_product"
+            android:exported="false" />
+        <activity
+            android:name=".view_man_product"
+            android:exported="false" />
+        <activity
+            android:name=".ent_add_product"
+            android:exported="false" />
+        <activity
+            android:name=".view_cart"
+            android:exported="false" />
+        <activity
+            android:name=".add_to_cart"
+            android:exported="false" />
+        <activity
+            android:name=".view_more"
+            android:exported="false" />
+        <activity
+            android:name=".view_product"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".custom_view_product" -->
+        <!-- android:exported="false" /> -->
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".edit_manufacturer_profile"
+            android:exported="false" />
+        <activity
+            android:name=".edit_entrepreneur_profile"
+            android:exported="false" />
+        <activity
+            android:name=".edit_cust_profile"
+            android:exported="false" />
+        <activity
+            android:name=".ent_send_feedback"
+            android:exported="false" />
+        <activity
+            android:name=".manufacturer_homepage"
+            android:exported="false" />
+        <activity
+            android:name=".entrepreneur_homepage"
+            android:exported="false" />
+        <activity
+            android:name=".man_add_product"
+            android:exported="false" />
+        <activity
+            android:name=".man_change_password"
+            android:exported="false" />
+        <activity
+            android:name=".ent_change_password"
+            android:exported="false" />
+        <activity
+            android:name=".customer_homepage"
+            android:exported="false" />
+        <activity
+            android:name=".change_password"
+            android:exported="false" />
+        <activity
+            android:name=".send_feedback"
+            android:exported="false" />
+        <activity
+            android:name=".view_manufacturer_profile"
+            android:exported="false" />
+        <activity
+            android:name=".view_cust_profile"
+            android:exported="false" />
+        <activity
+            android:name=".view_shop_profile"
+            android:exported="false" />
+        <activity
+            android:name=".Manufacturer_Signup"
+            android:exported="false" />
+        <activity
+            android:name=".Entrepreneur_Signup"
+            android:exported="false" />
+        <activity
+            android:name=".Customer_Signup"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".ip_connect"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>
